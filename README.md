@@ -16,5 +16,5 @@ Simplify HRM is an enterprise ERP solution that simplifies your human capital an
 <li>To generate various important reports that provides valuable information to the top-level management</li>
 <li>It covers following core modules such Employee self-service, Leave management, Recruitment, Loan management, Performance and Appraisal and Training and etc</li>
 </ul>
-<b>More details and download link:</b>
+<b>More details and download link:</b><br>
 <b>https://www.aspscriptsonline.com/product/online-hrms-software/</b>
