@@ -3,7 +3,7 @@
 
 Simplify HRM is an enterprise ERP solution that simplifies your human capital and payroll process. Simplify HRM small and medium sized organization’s human capital management needs hire to retire. Simplify HRM stores complete records of the employees, generates Pay-slips and Attendance Register, Computes all allowances and deductions and generates all statutory reports. Simplify HRM is only salary processing software with good and wide-industry range of clients. We have designed our human resource packages in such a way, it would help you in your business growth. For this system all you need is you should be connected to the internet. It has covered all modules so that an HR would manage all the records without getting bogged down. Our Simplify HRM will helpful in increasing the productivity of the organization and decision making. Going from manual to automated system would definitely increase the output and less paper work. Simplify HRM handles all more than basic functions related to HR department suitable for small, medium and large scale companies. It can be customized it according to your company requirements.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2016/06/simplifyhrm_2.jpg">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738348170_793412b83f32563299ce.webp">
 
 <b>Simplify HRM has the following core features:</b>
 
@@ -16,5 +16,15 @@ Simplify HRM is an enterprise ERP solution that simplifies your human capital an
 <li>To generate various important reports that provides valuable information to the top-level management</li>
 <li>It covers following core modules such Employee self-service, Leave management, Recruitment, Loan management, Performance and Appraisal and Training and etc</li>
 </ul>
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/online-hrms-software/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/asp.net-hrms-software
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
